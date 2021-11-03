@@ -1,0 +1,17 @@
+{
+  "name": "snakejs",
+  "version": "1.0.0",
+  "description": "A snake game in vanilla JS",
+  "author": "Giorgenes Gelatti",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^5.5.0",
+    "webpack": "^5.61.0",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.4.0"
+  }
+}
