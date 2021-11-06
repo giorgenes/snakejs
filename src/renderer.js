@@ -9,6 +9,8 @@ export default class Renderer {
       return;
     }
 
+
+
     this.width = canvas.width;
     this.height = canvas.height;
   }
